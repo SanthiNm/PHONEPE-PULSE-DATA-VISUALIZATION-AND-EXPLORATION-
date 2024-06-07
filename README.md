@@ -33,9 +33,6 @@ The Phonepe pulse Github repository contains a large amount of data related to v
 ## Inspired From :
  PhonePe Pulse
 
-## Dataset:
-Dataset Link: Data Link
-
 ### Tools:
 
 1. Streamlit : Streamlit is a Python-based library that allows data scientists to easily create free machine learning applications. Streamlit allows you to display descriptive text and model outputs, visualize data and model performance and modify model inputs through the UI using sidebars.
